@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <!-- <color name="colorAccent">#06DBC2</color> -->
+    <color name="colorAccent">#3acc06</color>
+    <color name="color1">#1cd828</color>
+    <color name="color2">#067f0e</color>
+    <color name="feher">#ffffff</color>
+    <color name="sotet">#262323</color>
+    <color name="sotet2">#444444</color>
+    <color name="piros">#f70c00</color>
+</resources>
